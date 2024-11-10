@@ -1,1 +1,1 @@
-{"Parameters":{"SEED":11}}
+{"Parameters":{"NUMBER_OF_ITERATIONS":2500,"VELOCITY":0.5,"LOW_COLOR":{"red":0.0,"green":50.0,"blue":100.0,"alpha":12.75},"SEED":11,"GRID_SIZE":100,"HIGH_COLOR":{"red":0.0,"green":150.0,"blue":200.0,"alpha":12.75},"WIDTH":1000,"CELL_SIZE":10.0,"HEIGHT":1000,"MAX_LENGTH":1000,"BLEND_MODE":128,"BACKGROUND_COLOR":{"red":245.0,"green":245.0,"blue":245.0,"alpha":255.0}}}
